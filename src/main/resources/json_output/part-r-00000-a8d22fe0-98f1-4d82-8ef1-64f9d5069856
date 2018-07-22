@@ -1,0 +1,10 @@
+{"transactionId":111,"customerId":1,"itemId":"abc","amountPaid":100.0}
+{"transactionId":115,"customerId":1,"itemId":"2","amountPaid":510.0}
+{"transactionId":116,"customerId":1,"itemId":"2","amountPaid":520.0}
+{"transactionId":117,"customerId":1,"itemId":"2","amountPaid":540.0}
+{"transactionId":118,"customerId":1,"itemId":"2","amountPaid":4400.0}
+{"transactionId":120,"customerId":1,"itemId":"2","amountPaid":1500.0}
+{"transactionId":121,"customerId":1,"itemId":"4","amountPaid":2500.0}
+{"transactionId":122,"customerId":1,"itemId":"2","amountPaid":4500.0}
+{"transactionId":123,"customerId":1,"itemId":"4","amountPaid":1100.0}
+{"transactionId":124,"customerId":1,"itemId":"2","amountPaid":5100.0}
